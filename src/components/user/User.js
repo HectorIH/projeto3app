@@ -1,5 +1,5 @@
 import React from "react";
-import NoImg from "../../images/no-img.png";
+
 import LocationOn from "@material-ui/icons/LocationOn";
 import BookmarkIcon from "@material-ui/icons/Bookmark";
 //import LinkIcon from "@material-ui/icons/Link";

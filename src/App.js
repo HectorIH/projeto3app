@@ -8,7 +8,7 @@ import MainView from "./components/MainView/MainView";
 import { AuthContextComponent } from "./contexts/authContext";
 
 const App = () => {
-  const backgroundImage = "images/mountain.jpg";
+  const backgroundImage = "./images/mountain.jpg";
   const sidebarHeader = {
     fullName: (
       <img src="https://www.ironhack.com/assets/icons/ironhack_logos/logo.svg" />
